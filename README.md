@@ -1,6 +1,6 @@
-<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, portfolio of a backend developer and fintech analyst">
+<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, portfolio of a FinTech graduate who builds software">
 
-### <div align="center">I'm Ali, a Backend Developer and FinTech graduate 👨‍💻 Based in Manchester 🇬🇧</div>
+### <div align="center">I'm Ali, a FinTech graduate who builds software 👨‍💻 Based in Manchester 🇬🇧</div>
 
 - 🔭 I'm currently a KYC Analyst in Business Banking at Barclays
 - 💼 Two years as a Backend Developer at Peachr, building Spring Boot services for e-commerce and UK healthcare clients
