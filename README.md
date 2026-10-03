@@ -8,7 +8,7 @@
 - 🌱 I build with AI every day: RAG and agent systems, workflow automation and the OpenAI and Anthropic APIs
 - ⚡ I am passionate about finance, trading, property and building products people actually use
 - 🎯 Working towards a career as a Business Analyst
-- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/)
 
 <br/>
 
@@ -25,6 +25,7 @@ To get the name of the skill, place your cursor on it.
 
 ### Backend
 <div align="center">
+<img src="img/spacer.png" width="270" height="1" alt="" /><br/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
@@ -38,6 +39,7 @@ To get the name of the skill, place your cursor on it.
 
 ### Data & AI
 <div align="center">
+<img src="img/spacer.png" width="270" height="1" alt="" /><br/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="50" />
@@ -49,6 +51,7 @@ To get the name of the skill, place your cursor on it.
 
 ### Web & DevOps
 <div align="center">
+<img src="img/spacer.png" width="270" height="1" alt="" /><br/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="50" />
@@ -136,7 +139,7 @@ To keep people coming back I added gamification, leaderboards and a social buddy
 <a href="https://github.com/moali02" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/ali-mirza02/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.trade-log.co.uk/" target="_blank">
