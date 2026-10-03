@@ -103,7 +103,7 @@ Traders can also turn any trade into a card to share with others.
   <img src="img/tradelog_trade_card.png" alt="TradeLog trade card share studio" width="80%">
 </p>
 
-## :hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts
+## [:hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts](https://suhbah-three.vercel.app/)
 
 Suhbah means companionship. People who are new to Islam can feel isolated even inside their own community. Suhbah helps reverts and Muslims reconnecting with their faith find welcoming local gatherings, book a place and take a manageable next step.
 
@@ -120,6 +120,8 @@ What it does:
 - daily prayer times, a Quran reader and push notifications for reminders
 
 It is built with Next.js, React and TypeScript on a PostgreSQL database with Drizzle ORM. It is deployed on Vercel with Supabase and covered by 57 integration tests, 19 browser journey checks and automated accessibility scans.
+
+You can view the live demo at [suhbah-three.vercel.app](https://suhbah-three.vercel.app/). The organisations, people and events shown there are fictional demo data.
 
 This project is still in development so the code is private for now.
 
