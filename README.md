@@ -149,7 +149,9 @@ The study focuses on the trade-off between accuracy and explainability. A more a
 
 ## :bar_chart: :books: Buy Now Pay Later and consumer financial vulnerability in the UK
 
-This is my MSc dissertation. It asks how the growth of Buy Now Pay Later relates to financial difficulty among UK consumers, especially people who use it often.
+This is my MSc dissertation. It was awarded 73.9 out of 100, a distinction-level mark.
+
+It asks how the growth of Buy Now Pay Later relates to financial difficulty among UK consumers, especially people who use it often.
 
 It is a quantitative secondary analysis of the FCA Financial Lives Survey using the 2022 and 2024 waves. It covers four areas: market growth, how and how often people use BNPL, who is most vulnerable and what this means for consumer protection.
 
