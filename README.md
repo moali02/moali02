@@ -77,6 +77,7 @@ To improve the readability of my projects, here is a legend of the emojis in the
 
 - [Projects](#projects)
   - [:hammer_and_wrench: :man: TradeLog, a free trading journal](#hammer_and_wrench-man-tradelog-a-free-trading-journal)
+  - [:hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts](#hammer_and_wrench-man-suhbah-a-community-app-for-muslim-reverts)
   - [:robot: :man: Jarvis, a voice enabled AI assistant](#robot-man-jarvis-a-voice-enabled-ai-assistant)
   - [:hammer_and_wrench: :lock: Backend services for e-commerce and healthcare clients](#hammer_and_wrench-lock-backend-services-for-e-commerce-and-healthcare-clients)
   - [:bar_chart: :books: Credit risk prediction with Machine Learning](#bar_chart-books-credit-risk-prediction-with-machine-learning)
@@ -101,6 +102,26 @@ Traders can also turn any trade into a card to share with others.
 <p align="center">
   <img src="img/tradelog_trade_card.png" alt="TradeLog trade card share studio" width="80%">
 </p>
+
+## :hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts
+
+Suhbah means companionship. People who are new to Islam can feel isolated even inside their own community. Suhbah helps reverts and Muslims reconnecting with their faith find welcoming local gatherings, book a place and take a manageable next step.
+
+<p align="center">
+  <img src="img/suhbah_screens.png" alt="Suhbah home screen, bookings and prayer times on a phone" width="90%">
+</p>
+
+It is a mobile-first progressive web app that installs to the phone Home Screen. Manchester is the demonstration location.
+
+What it does:
+- members discover gatherings and volunteering, book a place, join a waitlist and add bookings to their calendar
+- mosques, charities and teachers create and manage events and see who is attending
+- an admin team reviews organisers and moderates reports
+- daily prayer times, a Quran reader and push notifications for reminders
+
+It is built with Next.js, React and TypeScript on a PostgreSQL database with Drizzle ORM. It is deployed on Vercel with Supabase and covered by 57 integration tests, 19 browser journey checks and automated accessibility scans.
+
+This project is still in development so the code is private for now.
 
 ## :robot: :man: Jarvis, a voice enabled AI assistant
 
