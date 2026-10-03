@@ -88,7 +88,17 @@ I trade the markets myself and found that most trading journals were expensive a
 
 TradeLog lets traders log their trades and review their market bias. It has an analytics dashboard and AI insights that help traders see what is working and what is not.
 
+<p align="center">
+  <img src="img/tradelog_overview.png" alt="TradeLog overview dashboard with performance stats and equity curve" width="80%">
+</p>
+
 It is built with React and Firebase and deployed on Vercel. More than 100 traders have signed up with no marketing at all. I only shared it in the trading groups I am part of.
+
+Traders can also turn any trade into a card to share with others.
+
+<p align="center">
+  <img src="img/tradelog_trade_card.png" alt="TradeLog trade card share studio" width="80%">
+</p>
 
 ## :robot: :man: Jarvis, a voice enabled AI assistant
 
