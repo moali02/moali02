@@ -142,7 +142,18 @@ My part was in two sections:
 
 My BSc dissertation project. It is a fitness tracking web app built on the MERN stack (MongoDB, Express, React and Node.js).
 
-To keep people coming back I added gamification, leaderboards and a social buddy system so users can train alongside their friends.
+<p align="center">
+  <img src="img/fitness_dashboard.png" alt="Fitness tracker dashboard with daily goal, weekly progress and recent activity" width="80%">
+</p>
+
+Users can log workouts and meals, set nutrition goals and follow their progress on an analytics dashboard.
+
+To keep people coming back I added gamification and a social side:
+- points, badges, levels and streaks with a leaderboard
+- friends, an activity feed and challenges
+- a workout partner system with shared goals and chat
+
+The front end is React with Vite and Tailwind. The back end is an Express API with JWT login and MongoDB for storage.
 
 # Connect with me
 <div align="center">
