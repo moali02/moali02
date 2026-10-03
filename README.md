@@ -7,7 +7,7 @@
 - 📖 MSc Financial Technology at the University of Salford (submitted, results pending) and BSc (Hons) Computer Science, 2:1
 - 🌱 I build with AI every day: RAG and agent systems, workflow automation and the OpenAI and Anthropic APIs
 - ⚡ I am passionate about finance, trading, property and building products people actually use
-- 🎯 Working towards a career as a Business Analyst
+- 🎯 Open to roles across software, data and analysis
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/)
 
 <br/>
