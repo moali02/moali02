@@ -195,3 +195,14 @@ The front end is React with Vite and Tailwind. The back end is an Express API wi
 </a>
 </div>
 <br/>
+
+
+# Certifications
+
+LinkedIn Learning certificates of completion.
+
+| Course | Provider | Completed | Credential |
+| --- | --- | --- | --- |
+| Python for Data Analysis: Solve Real-World Challenges | LinkedIn Learning | 8 October 2026 | [View certificate](https://www.linkedin.com/learning/certificates/cdddd897dacfbe02824f58b0531c80ec57a7acbfcc11cf140c183b93d1fa1a76/) |
+| Python Code Challenges for Data Analysis | LinkedIn Learning | 6 October 2026 | [View certificate](https://www.linkedin.com/learning/certificates/69b0808dbafdd911d9253394df3388a7da25e6b7cf2173846d0d617728fa9a91/) |
+| The Role of Business Analysis in Data Analytics | LinkedIn Learning | 1 October 2026 | [View certificate](https://www.linkedin.com/learning/certificates/ef920707f56580def929690107a41b144b7c30cfa3b8cb42e55460d7dbf89e9d/) |
