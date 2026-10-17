@@ -1,23 +1,23 @@
-<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, portfolio of a FinTech graduate who builds software">
+<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, building software and data solutions for finance">
 
-### <div align="center">I'm Ali, a FinTech graduate who builds software 👨‍💻 Based in Manchester 🇬🇧</div>
+### <div align="center">I'm Ali. I build software and data solutions for finance 👨‍💻 Manchester 🇬🇧</div>
 
 - 🔭 I'm currently a KYC Analyst in Business Banking at Barclays
 - 💼 Two years as a Backend Developer at Peachr, building Spring Boot services for e-commerce and UK healthcare clients
-- 📖 MSc Financial Technology at the University of Salford (submitted, results pending) and BSc (Hons) Computer Science, 2:1
+- 📖 MSc Financial Technology and BSc (Hons) Computer Science from the University of Salford
 - 🌱 I build with AI every day: RAG and agent systems, workflow automation and the OpenAI and Anthropic APIs
-- ⚡ I am passionate about finance, trading, property and building products people actually use
+- ⚡ I focus on finance, trading, property and building products people actually use
 - 🎯 Open to roles across software, data and analysis
-- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/)
 
 <br/>
 
 # Education
 
-| Degree | University | Dates | Result |
-| --- | --- | --- | --- |
-| MSc Financial Technology | University of Salford | 09/2025 to 09/2026 | Submitted, results pending |
-| BSc (Hons) Computer Science | University of Salford | 09/2022 to 06/2025 | 2:1 |
+| Degree | University | Dates |
+| --- | --- | --- |
+| MSc Financial Technology | University of Salford | 09/2025 to 09/2026 |
+| BSc (Hons) Computer Science | University of Salford | 09/2022 to 06/2025 |
 
 # Skills
 To get the name of the skill, place your cursor on it.
