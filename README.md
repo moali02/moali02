@@ -1,6 +1,6 @@
-<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, building software and data solutions for finance">
+<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, building software and data solutions">
 
-### <div align="center">I'm Ali. I build software and data solutions for finance 👨‍💻 Manchester 🇬🇧</div>
+### <div align="center">I'm Ali. I build software and data solutions 👨‍💻 Manchester 🇬🇧</div>
 
 - 🔭 I'm currently a KYC Analyst in Business Banking at Barclays
 - 💼 Two years as a Backend Developer at Peachr, building Spring Boot services for e-commerce and UK healthcare clients
@@ -14,10 +14,10 @@
 
 # Education
 
-| Degree | University | Dates |
-| --- | --- | --- |
-| MSc Financial Technology | University of Salford | 09/2025 to 09/2026 |
-| BSc (Hons) Computer Science | University of Salford | 09/2022 to 06/2025 |
+| Degree | University |
+| --- | --- |
+| MSc Financial Technology | University of Salford |
+| BSc (Hons) Computer Science | University of Salford |
 
 # Skills
 To get the name of the skill, place your cursor on it.
