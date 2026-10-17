@@ -1,4 +1,4 @@
-<img src="img/header.png" alt="banner that says Mohammed Ali Mirza, building software and data solutions">
+<img src="img/header.png" alt="banner that says building software and data solutions with skills Java, Spring Boot, Python, SQL, Power BI and AI">
 
 ### <div align="center">I'm Ali. I build software and data solutions 👨‍💻 Manchester 🇬🇧</div>
 
