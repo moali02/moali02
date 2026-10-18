@@ -3,7 +3,7 @@
 ### <div align="center">I'm Ali. I build software and data solutions 👨‍💻 Manchester 🇬🇧</div>
 
 - 🔭 I'm currently a KYC Analyst in Business Banking at Barclays
-- 💼 Two years as a Backend Developer at Peachr, building Spring Boot services for e-commerce and UK healthcare clients
+- 💼 Two years as a Data Analyst at Peachr, working with SQL, data models and Power BI reporting for e-commerce and UK healthcare clients
 - 📖 MSc Financial Technology and BSc (Hons) Computer Science from the University of Salford
 - 🌱 I build with AI every day: RAG and agent systems, workflow automation and the OpenAI and Anthropic APIs
 - ⚡ I focus on finance, trading, property and building products people actually use
@@ -79,7 +79,7 @@ To improve the readability of my projects, here is a legend of the emojis in the
   - [:hammer_and_wrench: :man: TradeLog, a free trading journal](#hammer_and_wrench-man-tradelog-a-free-trading-journal)
   - [:hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts](#hammer_and_wrench-man-suhbah-a-community-app-for-muslim-reverts)
   - [:robot: :man: Jarvis, a voice enabled AI assistant](#robot-man-jarvis-a-voice-enabled-ai-assistant)
-  - [:hammer_and_wrench: :lock: Backend services for e-commerce and healthcare clients](#hammer_and_wrench-lock-backend-services-for-e-commerce-and-healthcare-clients)
+  - [:bar_chart: :lock: Data and reporting for e-commerce and healthcare clients](#bar_chart-lock-data-and-reporting-for-e-commerce-and-healthcare-clients)
   - [:bar_chart: :books: Credit risk prediction with Machine Learning](#bar_chart-books-credit-risk-prediction-with-machine-learning)
   - [:bar_chart: :books: Buy Now Pay Later and consumer financial vulnerability in the UK](#bar_chart-books-buy-now-pay-later-and-consumer-financial-vulnerability-in-the-uk)
   - [:bar_chart: :books: Portfolio analysis with clustering and Monte Carlo simulation](#bar_chart-books-portfolio-analysis-with-clustering-and-monte-carlo-simulation)
@@ -131,11 +131,11 @@ Jarvis is a personal assistant I can talk to. It does more than answer questions
 
 This project is where I put my daily AI work into practice: calling the OpenAI and Anthropic APIs in code, building agent systems and automating workflows.
 
-## :hammer_and_wrench: :lock: Backend services for e-commerce and healthcare clients
+## :bar_chart: :lock: Data and reporting for e-commerce and healthcare clients
 
-For two years I worked as a Backend Developer at Peachr, a backend development agency. I built Spring Boot microservices for clients in e-commerce and UK healthcare.
+For two years I worked as a Data Analyst at Peachr, a development agency building production systems for clients in e-commerce and UK healthcare.
 
-The stack was Java, Spring Boot, PostgreSQL, Docker and AWS with CI/CD pipelines, tested with JUnit and Mockito. I also built data pipelines with Python scripts, SQL stored procedures and Java services, and created Power BI visualisations to show analytics to stakeholders.
+I built data pipelines with Python scripts, SQL stored procedures and Java services, optimised PostgreSQL queries and created Power BI visualisations to show analytics to stakeholders. The wider stack was Java, Spring Boot, Docker and AWS with CI/CD pipelines, tested with JUnit and Mockito.
 
 This was client work so I can not show the code.
 
