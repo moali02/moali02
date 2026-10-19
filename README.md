@@ -7,7 +7,7 @@
 - 🛠️ Previously a Junior Full Stack Engineer at Seamless Ideas, building SeamlessSlots, a Node.js booking platform used by 14 clinics
 - 📖 MSc Financial Technology and BSc (Hons) Computer Science from the University of Salford
 - 🌱 I build with AI every day: RAG and agent systems, workflow automation and the OpenAI and Anthropic APIs
-- ⚡ I focus on finance, trading, property and building products people actually use
+- ⚡ I focus on building products people actually use
 - 🎯 Open to roles across software, data and analysis
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/)
 
