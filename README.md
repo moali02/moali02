@@ -46,6 +46,8 @@ To get the name of the skill, place your cursor on it.
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate.svg" alt="Power Automate" title="Power Automate" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure and Fabric" title="Microsoft Azure and Fabric" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -62,8 +64,12 @@ To get the name of the skill, place your cursor on it.
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" height="50" />
 </div>
 </td></tr></table>
+
+Also: SQL (CTEs, subqueries, window functions), Power Query, Microsoft Fabric, Tableau, dbt and Excel (pivot tables, XLOOKUP, VBA).
 
 # Projects
 
@@ -136,7 +142,7 @@ This project is where I put my daily AI work into practice: calling the OpenAI a
 
 For two years I worked as a Data Analyst at Peachr, a development agency building production systems for clients in e-commerce and UK healthcare.
 
-I built data pipelines with Python scripts, SQL stored procedures and Java services, optimised PostgreSQL queries and created Power BI visualisations to show analytics to stakeholders. The wider stack was Java, Spring Boot, Docker and AWS with CI/CD pipelines, tested with JUnit and Mockito.
+I built data pipelines with Python scripts, SQL stored procedures and Java services, and analysed booking data of up to 1M rows in SQL using CTEs, subqueries and window functions. I built and maintained Power BI dashboards for client stakeholders, automated recurring reports with Power Query, Power Automate and scheduled refreshes, and rebuilt a legacy Excel report in Power BI. The wider stack was Java, Spring Boot, Docker and AWS with CI/CD pipelines, tested with JUnit and Mockito.
 
 This was client work so I can not show the code.
 
