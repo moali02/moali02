@@ -77,7 +77,6 @@ To improve the readability of my projects, here is a legend of the emojis in the
 - :lock: : private project, for a company for example, so I can not show the code
 - :hammer_and_wrench: : software project
 - :bar_chart: : data and finance project
-- :robot: : AI project
 - :books: : educational project
 - :man: : personal project
 
@@ -85,7 +84,6 @@ To improve the readability of my projects, here is a legend of the emojis in the
 - [Projects](#projects)
   - [:hammer_and_wrench: :man: TradeLog, a free trading journal](#hammer_and_wrench-man-tradelog-a-free-trading-journal)
   - [:hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts](#hammer_and_wrench-man-suhbah-a-community-app-for-muslim-reverts)
-  - [:robot: :man: Jarvis, a voice enabled AI assistant](#robot-man-jarvis-a-voice-enabled-ai-assistant)
   - [:bar_chart: :lock: Data and reporting for e-commerce and healthcare clients](#bar_chart-lock-data-and-reporting-for-e-commerce-and-healthcare-clients)
   - [:bar_chart: :books: Credit risk prediction with Machine Learning](#bar_chart-books-credit-risk-prediction-with-machine-learning)
   - [:bar_chart: :books: Buy Now Pay Later and consumer financial vulnerability in the UK](#bar_chart-books-buy-now-pay-later-and-consumer-financial-vulnerability-in-the-uk)
@@ -131,12 +129,6 @@ It is built with Next.js, React and TypeScript on a PostgreSQL database with Dri
 You can view the live demo at [suhbah-three.vercel.app](https://suhbah-three.vercel.app/). The organisations, people and events shown there are fictional demo data.
 
 This project is still in development so the code is private for now.
-
-## :robot: :man: Jarvis, a voice enabled AI assistant
-
-Jarvis is a personal assistant I can talk to. It does more than answer questions. It completes tasks from start to finish by calling tools and pulling information from the web.
-
-This project is where I put my daily AI work into practice: calling the OpenAI and Anthropic APIs in code, building agent systems and automating workflows.
 
 ## :bar_chart: :lock: Data and reporting for e-commerce and healthcare clients
 
