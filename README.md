@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Ali. I build software and data solutions 👨‍💻 Manchester 🇬🇧</div>
 
-- 🔭 I'm currently a KYC Analyst in Business Banking at Barclays
+- 🔭 I'm currently an Anti-Money Laundering Analyst in Business Banking at Barclays
 - 💼 Two years as a Data Analyst at Peachr, working with SQL, data models and Power BI reporting for e-commerce and UK healthcare clients
 - 🛠️ Previously a Junior Full Stack Engineer at Seamless Ideas, building SeamlessSlots, a Node.js booking platform used by 14 clinics
 - 📖 MSc Financial Technology and BSc (Hons) Computer Science from the University of Salford
