@@ -11,28 +11,6 @@
 
 <br/>
 
-# Experience
-
-### 🏦 Analyst · Barclays · Manchester
-- Streamlined weekly reporting by replacing manual Excel extracts with a reusable Snowflake SQL query, reducing report preparation time by 25%
-- Automated customer data ingestion by configuring Snowpipe to load hourly exports from Google Cloud Storage into Snowflake, reducing the time to make the data available for analysis by 20%
-- Analysed three months of case data by grouping exceptions by failure type in Python, finding that three categories accounted for 58% of exceptions and recommending targeted fixes to team leads
-- Built a Power BI dashboard using case data from three queues, giving team leads a weekly view of 240 open cases, backlog age, turnaround time and SLA breaches
-
-### 🦷 Data Analyst (Contract) · Night and Day Emergency Dentist · Manchester
-- Increased organic clicks by 15% across four urgent care landing pages by grouping Google Search Console queries by intent and using the findings to guide SEO updates
-- Helped fill 83% of additional peak-time slots in four weeks by joining booking and GA4 traffic data in SQL to identify when demand exceeded capacity
-- Increased the booking enquiry rate by 25% on priority pages by using Google Tag Manager call and form data to guide changes to those pages
-- Reduced Google Ads cost per booking by 12% by comparing hourly booking costs and shifting spend to lower-cost hours
-- Replaced a manual Excel report with self-service Power BI dashboards on a star schema using DAX
-- Supported 1,000+ patients a month and a 35% rise in peak throughput by designing the booking data model
-- Delivered 12+ features in Agile sprints in Jira by turning client requirements into data and reports
-
-### 🔎 Junior Analyst (Part-time) · Seamless Ideas · Manchester
-- Showed sales which customer segments were growing with Snowflake SQL that joined customer and order tables, filtered to active accounts and aggregated revenue by month using CTEs and window functions
-- Cut manual data preparation with a Python (pandas) script that removed duplicates, standardised formats and filled gaps, checked against source row counts and totals
-- Kept KPIs consistent across teams with Power BI reports on agreed measures, reconciled in Excel
-
 # Education
 
 | Degree | University | Key modules |
