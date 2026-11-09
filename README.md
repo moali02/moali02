@@ -66,17 +66,16 @@ Also: Excel (pivot tables, lookups), KPI dashboards, data cleaning, validation, 
 To improve the readability of my projects, here is a legend of the emojis in the title of the projects:
 - :hammer_and_wrench: : software project
 - :bar_chart: : data and finance project
-- :books: : educational project
 - :man: : personal project
 
 
 - [Projects](#projects)
   - [:hammer_and_wrench: :man: TradeLog, a free trading journal](#hammer_and_wrench-man-tradelog-a-free-trading-journal)
   - [:hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts](#hammer_and_wrench-man-suhbah-a-community-app-for-muslim-reverts)
-  - [:bar_chart: :books: Credit risk prediction with Machine Learning](#bar_chart-books-credit-risk-prediction-with-machine-learning)
-  - [:bar_chart: :books: Buy Now Pay Later and consumer financial vulnerability in the UK](#bar_chart-books-buy-now-pay-later-and-consumer-financial-vulnerability-in-the-uk)
-  - [:bar_chart: :books: Portfolio analysis with clustering and Monte Carlo simulation](#bar_chart-books-portfolio-analysis-with-clustering-and-monte-carlo-simulation)
-  - [:hammer_and_wrench: :books: Fitness tracking web app](#hammer_and_wrench-books-fitness-tracking-web-app)
+  - [:bar_chart: :man: Credit risk prediction with Machine Learning](#bar_chart-man-credit-risk-prediction-with-machine-learning)
+  - [:bar_chart: :man: Buy Now Pay Later and consumer financial vulnerability in the UK](#bar_chart-man-buy-now-pay-later-and-consumer-financial-vulnerability-in-the-uk)
+  - [:bar_chart: :man: Portfolio analysis with clustering and Monte Carlo simulation](#bar_chart-man-portfolio-analysis-with-clustering-and-monte-carlo-simulation)
+  - [:hammer_and_wrench: :man: Fitness tracking web app](#hammer_and_wrench-man-fitness-tracking-web-app)
 
 ## [:hammer_and_wrench: :man: TradeLog, a free trading journal](https://www.trade-log.co.uk/)
 
@@ -118,35 +117,33 @@ You can view the live demo at [suhbah-three.vercel.app](https://suhbah-three.ver
 
 This project is still in development so the code is private for now.
 
-## :bar_chart: :books: Credit risk prediction with Machine Learning
+## :bar_chart: :man: Credit risk prediction with Machine Learning
 
-For my MSc I ran a comparative study of four models for predicting credit risk:
+A comparative study of four models for predicting credit risk:
 - Logistic Regression
 - Random Forest
 - XGBoost
 - an LSTM tuned with a genetic algorithm
 
-The study focuses on the trade-off between accuracy and explainability. A more accurate model is not always the better choice for a lender if nobody can explain its decisions. I linked the results to the regulation that applies: GDPR Article 22, the EU AI Act and the FCA Consumer Duty.
+The study focuses on the trade-off between accuracy and explainability. A more accurate model is not always the better choice for a lender if nobody can explain its decisions. The results are linked to the regulation that applies: GDPR Article 22, the EU AI Act and the FCA Consumer Duty.
 
-## :bar_chart: :books: Buy Now Pay Later and consumer financial vulnerability in the UK
+## :bar_chart: :man: Buy Now Pay Later and consumer financial vulnerability in the UK
 
-This is my MSc dissertation. It was awarded 73.9 out of 100, a distinction-level mark.
-
-It asks how the growth of Buy Now Pay Later relates to financial difficulty among UK consumers, especially people who use it often.
+A research project on how the growth of Buy Now Pay Later relates to financial difficulty among UK consumers, especially people who use it often.
 
 It is a quantitative secondary analysis of the FCA Financial Lives Survey using the 2022 and 2024 waves. It covers four areas: market growth, how and how often people use BNPL, who is most vulnerable and what this means for consumer protection.
 
-## :bar_chart: :books: Portfolio analysis with clustering and Monte Carlo simulation
+## :bar_chart: :man: Portfolio analysis with clustering and Monte Carlo simulation
 
-A group project for my FinTech Data Analytics module. We used K-Means clustering to group assets and then built portfolios from the clusters.
+A portfolio analysis project that used K-Means clustering to group assets and then built portfolios from the clusters.
 
-My part was in two sections:
+I worked on two sections:
 - estimating the return and risk of equal-weight portfolios across clusters using Modern Portfolio Theory, with the covariance matrix and portfolio variance
 - running a Monte Carlo simulation to optimise the portfolio, with Sharpe ratio analysis, the Efficient Frontier and the Capital Market Line
 
-## :hammer_and_wrench: :books: Fitness tracking web app
+## :hammer_and_wrench: :man: Fitness tracking web app
 
-My BSc dissertation project. It is a fitness tracking web app built on the MERN stack (MongoDB, Express, React and Node.js).
+A fitness tracking web app built on the MERN stack (MongoDB, Express, React and Node.js).
 
 <p align="center">
   <img src="img/fitness_dashboard.png" alt="Fitness tracker dashboard with daily goal, weekly progress and recent activity" width="80%">
