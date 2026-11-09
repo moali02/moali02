@@ -11,13 +11,6 @@
 
 <br/>
 
-# Education
-
-| Degree | University | Key modules |
-| --- | --- | --- |
-| MSc Financial Technology | University of Salford | Business Intelligence Using Power BI, FinTech Data Analytics, Financial Programming and Technologies with Python, Research Methods |
-| BSc (Hons) Computer Science | University of Salford | AI & Data Mining, Data Structures & Algorithms |
-
 # Skills
 To get the name of the skill, place your cursor on it.
 <table><tr align="center"><td valign="top" width="33%">
@@ -157,6 +150,13 @@ To keep people coming back I added gamification and a social side:
 - a workout partner system with shared goals and chat
 
 The front end is React with Vite and Tailwind. The back end is an Express API with JWT login and MongoDB for storage.
+
+# Education
+
+| Degree | University | Key modules |
+| --- | --- | --- |
+| MSc Financial Technology | University of Salford | Business Intelligence Using Power BI, FinTech Data Analytics, Financial Programming and Technologies with Python, Research Methods |
+| BSc (Hons) Computer Science | University of Salford | AI & Data Mining, Data Structures & Algorithms |
 
 # Connect with me
 <div align="center">
