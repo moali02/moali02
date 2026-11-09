@@ -1,80 +1,91 @@
-<img src="img/header.png" alt="banner that says building software and data solutions with skills Java, Spring Boot, Python, SQL, Power BI and AI">
+<img src="img/header.png" alt="banner that says building software and data solutions with skills SQL, Snowflake, Python, Power BI, Excel and GA4">
 
 ### <div align="center">I'm Ali. I build software and data solutions 👨‍💻 Manchester 🇬🇧</div>
 
-- 🔭 I'm currently an Anti-Money Laundering Analyst in Business Banking at Barclays
-- 💼 Two years as a Data Analyst at Peachr, working with SQL, data models and Power BI reporting for e-commerce and UK healthcare clients
-- 🛠️ Previously a Junior Full Stack Engineer at Seamless Ideas, building SeamlessSlots, a Node.js booking platform used by 14 clinics
+- 🔭 Analyst at Barclays, building Snowflake SQL reporting, automated data ingestion and Power BI dashboards
+- 📈 Previously a Data Analyst for Night and Day Emergency Dentist, using SQL, GA4, Google Ads and Power BI to grow bookings
+- 🔎 Before that a Junior Analyst at Seamless Ideas, working with Snowflake SQL, Python and Power BI
 - 📖 MSc Financial Technology and BSc (Hons) Computer Science from the University of Salford
-- 🌱 I build with AI every day: RAG and agent systems, workflow automation and the OpenAI and Anthropic APIs
-- ⚡ I focus on building products people actually use
-- 🎯 Open to roles across software, data and analysis
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/)
+- 🧮 Cleaning, validation, reconciliation, segmentation, trend analysis and predictive modelling
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-mirza02/) or at contactmomirza@gmail.com
 
 <br/>
 
+# Experience
+
+### 🏦 Analyst · Barclays · Manchester
+- Streamlined weekly reporting by replacing manual Excel extracts with a reusable Snowflake SQL query, reducing report preparation time by 25%
+- Automated customer data ingestion by configuring Snowpipe to load hourly exports from Google Cloud Storage into Snowflake, reducing the time to make the data available for analysis by 20%
+- Analysed three months of case data by grouping exceptions by failure type in Python, finding that three categories accounted for 58% of exceptions and recommending targeted fixes to team leads
+- Built a Power BI dashboard using case data from three queues, giving team leads a weekly view of 240 open cases, backlog age, turnaround time and SLA breaches
+
+### 🦷 Data Analyst (Contract) · Night and Day Emergency Dentist · Manchester
+- Increased organic clicks by 15% across four urgent care landing pages by grouping Google Search Console queries by intent and using the findings to guide SEO updates
+- Helped fill 83% of additional peak-time slots in four weeks by joining booking and GA4 traffic data in SQL to identify when demand exceeded capacity
+- Increased the booking enquiry rate by 25% on priority pages by using Google Tag Manager call and form data to guide changes to those pages
+- Reduced Google Ads cost per booking by 12% by comparing hourly booking costs and shifting spend to lower-cost hours
+- Replaced a manual Excel report with self-service Power BI dashboards on a star schema using DAX
+- Supported 1,000+ patients a month and a 35% rise in peak throughput by designing the booking data model
+- Delivered 12+ features in Agile sprints in Jira by turning client requirements into data and reports
+
+### 🔎 Junior Analyst (Part-time) · Seamless Ideas · Manchester
+- Showed sales which customer segments were growing with Snowflake SQL that joined customer and order tables, filtered to active accounts and aggregated revenue by month using CTEs and window functions
+- Cut manual data preparation with a Python (pandas) script that removed duplicates, standardised formats and filled gaps, checked against source row counts and totals
+- Kept KPIs consistent across teams with Power BI reports on agreed measures, reconciled in Excel
+
 # Education
 
-| Degree | University |
-| --- | --- |
-| MSc Financial Technology | University of Salford |
-| BSc (Hons) Computer Science | University of Salford |
+| Degree | University | Key modules |
+| --- | --- | --- |
+| MSc Financial Technology | University of Salford | Business Intelligence Using Power BI, FinTech Data Analytics, Financial Programming and Technologies with Python, Research Methods |
+| BSc (Hons) Computer Science | University of Salford | AI & Data Mining, Data Structures & Algorithms |
 
 # Skills
 To get the name of the skill, place your cursor on it.
 <table><tr align="center"><td valign="top" width="33%">
 
-### Backend
+### Analysis & Reporting
 <div align="center">
 <img src="img/spacer.png" width="270" height="1" alt="" /><br/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit and Mockito" title="JUnit and Mockito" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
+<img style="margin: 10px" src="img/icons/snowflake.svg" alt="Snowflake" title="Snowflake" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI and DAX" title="Power BI and DAX" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### Data & AI
+### Digital Analytics
 <div align="center">
 <img src="img/spacer.png" width="270" height="1" alt="" /><br/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate.svg" alt="Power Automate" title="Power Automate" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure and Fabric" title="Microsoft Azure and Fabric" height="50" />
+<img style="margin: 10px" src="img/icons/googleanalytics.svg" alt="Google Analytics 4" title="Google Analytics 4" height="50" />
+<img style="margin: 10px" src="img/icons/googletagmanager.svg" alt="Google Tag Manager" title="Google Tag Manager" height="50" />
+<img style="margin: 10px" src="img/icons/googlesearchconsole.svg" alt="Google Search Console" title="Google Search Console" height="50" />
+<img style="margin: 10px" src="img/icons/googleads.svg" alt="Google Ads" title="Google Ads" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### Web & DevOps
+### Engineering
 <div align="center">
 <img src="img/spacer.png" width="270" height="1" alt="" /><br/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" height="50" />
 </div>
 </td></tr></table>
 
-Also: SQL (CTEs, subqueries, window functions), Power Query, Microsoft Fabric, Tableau, dbt and Excel (pivot tables, XLOOKUP, VBA).
+Also: Excel (pivot tables, lookups), KPI dashboards, data cleaning, validation, reconciliation, segmentation, trend analysis, predictive and data modelling.
 
 # Projects
 
 To improve the readability of my projects, here is a legend of the emojis in the title of the projects:
-- :lock: : private project, for a company for example, so I can not show the code
 - :hammer_and_wrench: : software project
 - :bar_chart: : data and finance project
 - :books: : educational project
@@ -84,7 +95,6 @@ To improve the readability of my projects, here is a legend of the emojis in the
 - [Projects](#projects)
   - [:hammer_and_wrench: :man: TradeLog, a free trading journal](#hammer_and_wrench-man-tradelog-a-free-trading-journal)
   - [:hammer_and_wrench: :man: Suhbah, a community app for Muslim reverts](#hammer_and_wrench-man-suhbah-a-community-app-for-muslim-reverts)
-  - [:bar_chart: :lock: Data and reporting for e-commerce and healthcare clients](#bar_chart-lock-data-and-reporting-for-e-commerce-and-healthcare-clients)
   - [:bar_chart: :books: Credit risk prediction with Machine Learning](#bar_chart-books-credit-risk-prediction-with-machine-learning)
   - [:bar_chart: :books: Buy Now Pay Later and consumer financial vulnerability in the UK](#bar_chart-books-buy-now-pay-later-and-consumer-financial-vulnerability-in-the-uk)
   - [:bar_chart: :books: Portfolio analysis with clustering and Monte Carlo simulation](#bar_chart-books-portfolio-analysis-with-clustering-and-monte-carlo-simulation)
@@ -92,15 +102,15 @@ To improve the readability of my projects, here is a legend of the emojis in the
 
 ## [:hammer_and_wrench: :man: TradeLog, a free trading journal](https://www.trade-log.co.uk/)
 
-I trade the markets myself and found that most trading journals were expensive and limited in what they could do. So I built my own and made it free.
+A free trading journal that grew to more than 100 users with no paid marketing, shared only in trading communities.
 
-TradeLog lets traders log their trades and review their market bias. It has an analytics dashboard and AI insights that help traders see what is working and what is not.
+Traders log their trades and review their market bias. Performance dashboards calculate win rate, profit factor, maximum drawdown and average reward-to-risk, with date filters to help traders spot patterns.
 
 <p align="center">
   <img src="img/tradelog_overview.png" alt="TradeLog overview dashboard with performance stats and equity curve" width="80%">
 </p>
 
-It is built with React and Firebase and deployed on Vercel. More than 100 traders have signed up with no marketing at all. I only shared it in the trading groups I am part of.
+It is built with JavaScript, React and Firebase and deployed on Vercel. Trade input is validated, records are stored in Firebase Firestore and traders can export their data to CSV.
 
 Traders can also turn any trade into a card to share with others.
 
@@ -129,14 +139,6 @@ It is built with Next.js, React and TypeScript on a PostgreSQL database with Dri
 You can view the live demo at [suhbah-three.vercel.app](https://suhbah-three.vercel.app/). The organisations, people and events shown there are fictional demo data.
 
 This project is still in development so the code is private for now.
-
-## :bar_chart: :lock: Data and reporting for e-commerce and healthcare clients
-
-For two years I worked as a Data Analyst at Peachr, a development agency building production systems for clients in e-commerce and UK healthcare.
-
-I built data pipelines with Python scripts, SQL stored procedures and Java services, and analysed booking data of up to 1M rows in SQL using CTEs, subqueries and window functions. I built and maintained Power BI dashboards for client stakeholders, automated recurring reports with Power Query, Power Automate and scheduled refreshes, and rebuilt a legacy Excel report in Power BI. The wider stack was Java, Spring Boot, Docker and AWS with CI/CD pipelines, tested with JUnit and Mockito.
-
-This was client work so I can not show the code.
 
 ## :bar_chart: :books: Credit risk prediction with Machine Learning
 
@@ -189,6 +191,9 @@ The front end is React with Vite and Tailwind. The back end is an Express API wi
 <a href="https://www.linkedin.com/in/ali-mirza02/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:contactmomirza@gmail.com">
+<img src=https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.trade-log.co.uk/" target="_blank">
 <img src=https://img.shields.io/badge/tradelog-%230B1220.svg?&style=for-the-badge&logo=vercel&logoColor=white alt=tradelog style="margin-bottom: 5px;" />
 </a>
@@ -200,8 +205,8 @@ The front end is React with Vite and Tailwind. The back end is an Express API wi
 
 LinkedIn Learning certificates of completion.
 
-| Course | Provider | Completed | Credential |
-| --- | --- | --- | --- |
-| Python for Data Analysis: Solve Real-World Challenges | LinkedIn Learning | 8 October 2026 | [View certificate](https://www.linkedin.com/learning/certificates/cdddd897dacfbe02824f58b0531c80ec57a7acbfcc11cf140c183b93d1fa1a76/) |
-| Python Code Challenges for Data Analysis | LinkedIn Learning | 6 October 2026 | [View certificate](https://www.linkedin.com/learning/certificates/69b0808dbafdd911d9253394df3388a7da25e6b7cf2173846d0d617728fa9a91/) |
-| The Role of Business Analysis in Data Analytics | LinkedIn Learning | 1 October 2026 | [View certificate](https://www.linkedin.com/learning/certificates/ef920707f56580def929690107a41b144b7c30cfa3b8cb42e55460d7dbf89e9d/) |
+| Course | Provider | Credential |
+| --- | --- | --- |
+| Python for Data Analysis: Solve Real-World Challenges | LinkedIn Learning | [View certificate](https://www.linkedin.com/learning/certificates/cdddd897dacfbe02824f58b0531c80ec57a7acbfcc11cf140c183b93d1fa1a76/) |
+| Python Code Challenges for Data Analysis | LinkedIn Learning | [View certificate](https://www.linkedin.com/learning/certificates/69b0808dbafdd911d9253394df3388a7da25e6b7cf2173846d0d617728fa9a91/) |
+| The Role of Business Analysis in Data Analytics | LinkedIn Learning | [View certificate](https://www.linkedin.com/learning/certificates/ef920707f56580def929690107a41b144b7c30cfa3b8cb42e55460d7dbf89e9d/) |
